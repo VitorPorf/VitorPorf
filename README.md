@@ -5,14 +5,6 @@
 
 ---
 
-### ⚡ GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorPorf&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorPorf&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 🛠️ Tech Stack  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" />
