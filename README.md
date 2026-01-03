@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi, I'm Vitor Manoel</h2>
 
-💻 Fullstack Developer passionate about building scalable applications with a strong focus on **TypeScript**.  
+💻 Fullstack Developer passionate about building scalable applications with a strong focus on **TypeScript** and **Golang**.  
 🚀 Currently exploring modern frameworks, clean architectures, and cloud-native solutions.  
 
 ---
@@ -24,7 +24,7 @@
 
 ### 🌍 Connect with me
 <div align="left">
-  <a href="https://www.instagram.com/seu_instagram" target="_blank">
+  <a href="https://www.instagram.com/vitor_manoel.12" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/seu_linkedin" target="_blank">
