@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
   <img width="12"/>
   <img width="12"/>
+  <img src="https://miro.medium.com/1*vmFSpk9xtpxAHkH7cmt-3Q.png" height="35" alt="typescript" />
 </div>
 
 ---
