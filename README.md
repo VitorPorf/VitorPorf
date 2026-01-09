@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/vitor_manoel.12" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/seu_linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-manoel-579348204" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
