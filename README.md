@@ -19,7 +19,7 @@
   <img width="12"/>
   <img src="https://miro.medium.com/1*vmFSpk9xtpxAHkH7cmt-3Q.png" height="35" alt="typescript" />
   <img width="12"/>
-  <img src="https://p7.hiclipart.com/preview/396/90/545/postgresql-database-logo-computer-icons-replication-software-developer.jpg" height="35" alt="typescript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="35" alt="typescript" />
 </div>
 
 ---
