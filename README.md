@@ -20,6 +20,8 @@
   <img src="https://miro.medium.com/1*vmFSpk9xtpxAHkH7cmt-3Q.png" height="35" alt="typescript" />
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="35" alt="typescript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ---
