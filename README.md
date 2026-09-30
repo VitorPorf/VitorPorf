@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:06b6d4&text=Vitor%20Manoel&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Developer%20%7C%20Go%20%26%20TypeScript&descAlignY=58&descSize=20&animation=fadeIn" alt="Vitor Manoel - Software Developer" />
 
 <a href="https://github.com/VitorPorf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Building+scalable+backends+with+Go;Cloud-native+on+AWS+%2B+Terraform;Clean+%26+Hexagonal+Architecture;Data+pipelines+and+notification+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Building+scalable+backends+with+Go;Cloud-native+infrastructure+on+AWS;Clean+%26+Hexagonal+Architecture;Data+pipelines+and+notification+systems" alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 - 🚀 Software Developer focused on **Go** and **TypeScript**, building reliable and scalable systems
 - 🧱 I care about software architecture: **Clean Architecture**, **Hexagonal Architecture** and maintainable code
-- ☁️ Cloud-native infrastructure with **AWS (ECS/Fargate/ECR)** and **Terraform**
+- ☁️ Cloud-native infrastructure with **AWS (ECS/Fargate/ECR)**
 - 🔄 Data pipelines, automation (**N8N**) and **CI/CD**
 - 👥 I lead a small squad of developers and enjoy mentoring
 - 🎓 Computer Engineering, PUC Goiás
@@ -36,7 +36,7 @@
 
 **Cloud, Data & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,postgres,redis,github,githubactions,linux&perline=8" alt="Cloud, data and DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,docker,postgres,redis,github,githubactions,linux&perline=7" alt="Cloud, data and DevOps" />
 
 </div>
 
