@@ -21,8 +21,27 @@
 - ☁️ Cloud-native infrastructure with **AWS (ECS/Fargate/ECR)**
 - 🔄 Data pipelines, automation (**N8N**) and **CI/CD**
 - 👥 I lead a small squad of developers and enjoy mentoring
-- 🎓 Computer Engineering, PUC Goiás
 - 📍 Goiânia, Brazil
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="520">
+      <img src="https://img.shields.io/badge/B.Sc.-Computer%20Engineering-1e3a8a?style=for-the-badge" alt="B.Sc. Computer Engineering" />
+      <br/><br/>
+      <b>Pontifícia Universidade Católica de Goiás (PUC Goiás)</b>
+      <br/>
+      <sub>Started working professionally in software early in the program, combining academic foundations with hands-on engineering.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
