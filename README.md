@@ -49,8 +49,6 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=VitorPorf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPorf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&langs_count=6" alt="Top languages" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=VitorPorf&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a" alt="Contribution graph" />
-
 </div>
 
 ---
